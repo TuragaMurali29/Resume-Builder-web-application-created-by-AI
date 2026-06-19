@@ -1,0 +1,6 @@
+{
+  "name": "ResumeAI",
+  "description": "ResumeAI is an AI-powered Resume & Cover Letter Builder with ATS optimization, job tracking, and interview prep inspired by Enhancv.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
